@@ -1,0 +1,645 @@
+genome	AMO_Group	AMO_Group_Phy	AMO_Group_Phy_2
+14_1009_12_40cm_Euryarchaeota_8773_66_8	AMO_AA	AMO_AA	Ca. Angelarchaeales
+RidSed_csp2_13ft_2_Maxbin2_003_curated	AMO_AA	AMO_AA	Ca. Angelarchaeales
+14_0903_16_40cm_Euryarchaeota_5700_65_8	AMO_AA	AMO_AA	Ca. Angelarchaeales
+14_1009_16_40cm_Euryarchaeota_10056_68_9	AMO_AA	AMO_AA	Ca. Angelarchaeales
+GCA_005878375.1	AMO_AA	AMO_AA	Ca. Angelarchaeales
+14_0903_16_30cm_Euryarchaeota_5572_64_14_curated	AMO_AA	AMO_AA	Ca. Angelarchaeales
+14_0929_05_40cm_Euryarchaeota_3424_64_12	AMO_AA	AMO_AA	Ca. Angelarchaeales
+15con2h1_8_Maxbin2_011_curated	AMO_AA	AMO_AA	Ca. Angelarchaeales
+15con2h1_8_Maxbin2_128_sub_curated	AMO_AA	AMO_AA	Ca. Angelarchaeales
+PLM3-1_170_b2_sep16_Maxbin2_081_curated	AMO_AA	AMO_AA	Ca. Angelarchaeales
+PLM3-1_200_b2_sep16_Maxbin2_057_curated	AMO_AA	AMO_AA	Ca. Angelarchaeales
+RifSed_csp1_16ft_3_Maxbin2_041_curated	AMO_AA	AMO_AA	Ca. Angelarchaeales
+Sage1_R_100_16_Maxbin2_161_sub_curated	AMO_AA	AMO_AA	Ca. Angelarchaeales
+Sage1_R_20_16_MetaBAT_41_curated	AMO_AA	AMO_AA	Ca. Angelarchaeales
+Sage2_L_100_16_MetaBAT_94_sub_curated	AMO_AA	AMO_AA	Ca. Angelarchaeales
+Sage2_R_115_16_Maxbin2_115_sub_curated	AMO_AA	AMO_AA	Ca. Angelarchaeales
+GCA_001800745.1	AMO_AA	AMO_AA	Ca. Angelarchaeales
+GCA_001800825.1	AMO_AA	AMO_AA	Ca. Angelarchaeales
+GCA_005878325.1	AMO_AA	AMO_AA	Ca. Angelarchaeales
+14_0929_12_30cm_Euryarchaeota_7367_63_8	AMO_AA	AMO_AA	Ca. Angelarchaeales
+14_0929_02_40cm_Euryarchaeota_2838_66_7	AMO_AA	AMO_AA	Ca. Angelarchaeales
+14_0929_05_40cm_Euryarchaeota_3410_64_11_curated	AMO_AA	AMO_AA	Ca. Angelarchaeales
+14_0929_09_40cm_Euryarchaeota_7025_64_18	AMO_AA	AMO_AA	Ca. Angelarchaeales
+GCA_005878525.1	AMO_AA	AMO_AA	Ca. Angelarchaeales
+14_0927_12_20cm_Euryarchaeota_6357_65_11	AMO_AA	AMO_AA	Ca. Angelarchaeales
+14_1009_13_40cm_Euryarchaeota_9349_65_9	AMO_AA	AMO_AA	Ca. Angelarchaeales
+14_0927_05_20cm_Euryarchaeota_2163_64_7	AMO_AA	AMO_AA	Ca. Angelarchaeales
+GCA_005878985.1	AMO_AA	AMO_AA	Ca. Angelarchaeales
+14_0927_09_40cm_Euryarchaeota_6181_64_10	AMO_AA	AMO_AA	Ca. Angelarchaeales
+14_0927_12_40cm_Euryarchaeota_6587_64_8	AMO_AA	AMO_AA	Ca. Angelarchaeales
+14_0903_13_40cm_Euryarchaeota_1427_64_8_curated	AMO_AA	AMO_AA	Ca. Angelarchaeales
+15_D_Rain_20_5_09082015_CONCOCT_21_curated	AMO_AA	AMO_AA	Ca. Angelarchaeales
+GCA_013329855.1	AMO_AA	AMO_AA	Ca. Angelarchaeales
+GCA_004377185.1	AMO_AA	AMO_AA	Ca. Angelarchaeales
+GCA_900248165.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_002898655.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_003352285.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_003724275.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_000200715.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_001443365.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_002781805.1	AMO_NP	AMO_NP	Nitrosospherales
+GCF_000220175.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_000204585.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_002737445.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_003569705.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_004297665.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_005798405.1	AMO_NP	AMO_NP	Nitrosospherales
+GCF_000812185.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_000402075.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_000484935.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_001510295.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_001627235.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_002698885.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_002709285.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_007036345.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_007036525.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_007037205.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_007037745.1	AMO_NP	AMO_NP	Nitrosospherales
+GCF_000956175.1	AMO_NP	AMO_NP	Nitrosospherales
+GCF_002156965.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_000299365.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_000018465.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_000875775.1	AMO_NP	AMO_NP	Nitrosospherales
+GCF_000242875.2	AMO_NP	AMO_NP	Nitrosospherales
+GCF_000299395.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_000484975.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_000746765.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_001437625.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_001510275.1	AMO_NP	AMO_NP	Nitrosospherales
+GCF_001541925.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_001543015.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_002506665.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_003331425.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_002730325.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_002737455.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_002788515.1	AMO_NP	AMO_NP	Nitrosospherales
+GCF_003175215.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_003702465.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_003702495.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_003702525.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_003702545.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_003724285.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_003724325.1	AMO_NP	AMO_NP	Nitrosospherales
+GCF_006740685.1	AMO_NP	AMO_NP	Nitrosospherales
+GCF_900620265.1	AMO_NP	AMO_NP	Nitrosospherales
+14_0929_12_30cm_Thaumarchaeota_7395_39_7	AMO_NP	AMO_NP	Nitrosospherales
+GCF_900167955.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_900065925.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_900177045.1	AMO_NP	AMO_NP	Nitrosospherales
+GCF_900143675.1	AMO_NP	AMO_NP	Nitrosospherales
+14_0903_16_40cm_Thaumarchaeota_5674_38_9	AMO_NP	AMO_NP	Nitrosospherales
+GCA_005877205.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_007280465.1	AMO_NP	AMO_NP	Nitrosospherales
+GCF_002787055.1	AMO_NP	AMO_NP	Nitrosospherales
+GCF_000685395.1	AMO_NP	AMO_NP	Nitrosospherales
+GCF_000955905.1	AMO_NP	AMO_NP	Nitrosospherales
+GCF_000723185.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_002499525.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_004322465.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_005240025.1	AMO_NP	AMO_NP	Nitrosospherales
+14_1009_12_30cm_Thaumarchaeota_8534_36_6	AMO_NP	AMO_NP	Nitrosospherales
+GCA_005877305.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_007280335.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_013330055.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_001870125.1	AMO_NP	AMO_NP	Nitrosospherales
+GCF_900696045.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_000802205.2	AMO_NP	AMO_NP	Nitrosospherales
+GCA_000730285.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_000303155.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_002494895.1	AMO_NP	AMO_NP	Nitrosospherales
+14_1009_05_40cm_Candidatus_Nitrososphaera_gargensis_4356_47_8	AMO_NP	AMO_NP	Nitrosospherales
+GCF_000698785.1	AMO_NP	AMO_NP	Nitrosospherales
+14_0929_05_40cm_Nitrososphaera_3389_34_9	AMO_NP	AMO_NP	Nitrosospherales
+14_0927_05_40cm_Thaumarchaeota_2325_35_9	AMO_NP	AMO_NP	Nitrosospherales
+GCA_003176995.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_002495315.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_003135575.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_003164815.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_002495205.1	AMO_NP	AMO_NP	Nitrosospherales
+14_1009_16_30cm_Archaea_9812_57_7	AMO_NP	AMO_NP	Nitrosospherales
+GCA_005877225.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_002713325.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_002494565.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_002495905.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_002693165.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_002713205.1	AMO_NP	AMO_NP	Nitrosospherales
+GCA_003663565.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003663585.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003650935.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003649745.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003651045.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003649845.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003649715.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002254885.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002900535.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_001595915.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_001595945.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002496355.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002506745.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002900555.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003942085.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003650975.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002011355.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002502685.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002838935.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_013329495.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002254385.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_001875345.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002506485.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002718915.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002724775.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_001875425.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002509225.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002509165.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002687355.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002731655.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002731905.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003193815.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002692465.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002696315.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002699515.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002720095.2	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002720275.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002498185.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002507425.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002689345.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002694245.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002701145.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002706615.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002709705.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002710015.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002710205.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002715725.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002720115.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002727515.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002727695.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003602415.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003602535.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_004195515.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002699425.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002719395.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_000246735.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002170315.2	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002172355.2	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002495535.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002495945.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002496955.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002499015.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002499545.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002499705.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002502605.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002505355.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002506275.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002687075.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002688825.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002697705.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002702945.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002726395.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002729095.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003602575.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003602605.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003602645.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_013330285.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_013329865.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_013329925.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_013329355.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_013329255.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_013329295.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002171315.2	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002496635.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002499195.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002502215.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002698145.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002706065.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002722615.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002726845.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003602665.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_013330015.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002496845.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002694585.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002722135.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002731395.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003602635.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_013330925.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002718195.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002505405.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002494645.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002495645.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002497765.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002502295.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002689105.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002694525.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002704515.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002714305.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002722695.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002725275.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002726495.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002728035.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003602475.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003602485.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_013330155.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_004195635.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002505935.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002719475.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002503395.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002170775.2	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002495675.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002497295.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002499585.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002504845.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002505455.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002505695.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002507175.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002712645.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002717835.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002497905.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002502625.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002503045.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002506875.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002697105.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002702985.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002708015.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002708695.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002712285.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002713585.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002718215.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002457555.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002496905.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002497025.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002497895.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002498525.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002498725.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002502175.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002502365.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002685415.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002708385.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_013330385.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_013329905.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002494975.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002495525.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002497245.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002498985.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002499785.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002504905.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002686525.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_004195525.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_001628485.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_001629205.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_001629235.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_001629255.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002172185.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002172375.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002457145.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002457155.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002496485.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002503285.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002506755.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002712575.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002713185.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002716085.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002718695.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002719615.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002720055.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002722735.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002725315.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002728565.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002731195.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003602515.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003602595.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_004195615.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002496725.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002498925.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002499325.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002499345.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002499865.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002501605.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002501805.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002502095.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002504435.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002505775.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002506825.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002718995.2	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002726275.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002730095.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002498455.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002505685.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002722595.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002724815.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002505495.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002685895.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002727675.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003193925.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002501885.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002503055.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002507125.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002698225.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002714745.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002727275.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_004195715.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003561665.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003009755.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCF_000025665.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCF_000327505.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002011395.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002878135.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003649915.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003649695.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_001421185.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_001512965.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002498285.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002504525.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCF_000404225.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCF_000308215.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002067635.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002508545.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_001563305.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002506175.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCF_000300255.2	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCF_000350305.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCF_001481295.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCF_001560915.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002495325.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002503545.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCF_000800805.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_006954405.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003550345.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003555025.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003557905.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003560875.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_007116915.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_007117455.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_001421175.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002502965.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002506255.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002506905.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002504405.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002504495.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002506425.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_006954425.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_006954465.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_013329105.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002498365.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002498605.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002505345.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002509405.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003135935.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003153895.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002067865.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002067045.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002497075.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_004525545.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_013329565.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003551065.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003552585.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003551675.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003554965.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003555395.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003553085.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_003560595.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_007133925.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_007129655.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_001595885.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002496385.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002499085.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_001856825.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCF_001402945.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002204705.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_900083515.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCF_002078355.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002505185.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_000496135.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_000965745.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCF_900176435.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_001316105.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCF_000195915.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCF_003205235.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCF_000011185.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002503205.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002498845.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002502705.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_001800675.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_001800815.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_013331315.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_013329135.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002495185.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002503985.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002494765.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+GCA_002495235.1	Non_AMO	Non_AMO_TPL	Other Thermoplasmatota
+14_0903_16_40cm_Archaea_5750_52_12	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+14_0929_05_30cm_unknown_3278_52_7	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+14_1009_12_30cm_Archaea_8546_52_24	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_001915065.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_001918745.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_001918765.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+14_0927_12_40cm_Archaea_6568_52_16	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002495485.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+14_1009_13_30cm_unknown_9115_52_8	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_005881695.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+14_0929_09_40cm_unknown_7058_52_11	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+14_1009_13_40cm_Archaea_9334_53_6	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_005882955.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_005883075.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_005883085.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+14_0927_12_20cm_unknown_6373_52_11	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_005884195.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+14_0903_16_40cm_unknown_5721_52_12	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+14_0927_02_20cm_Archaea_1920_52_9	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+14_0903_09_30cm_unknown_10603_52_8	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_005888755.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+14_0929_05_30cm_Archaea_3251_51_9	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+14_1009_05_40cm_unknown_4379_53_10	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_001768965.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003152955.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_001775955.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_007050885.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_001593865.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_001593855.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003662305.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003662485.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003662515.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003661965.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002011035.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002490245.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003662645.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_001593925.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_001593935.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003601695.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003601725.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003661975.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003601835.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003662715.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_001399805.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_001399795.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003096235.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003096255.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_004376385.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_004376295.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_004376645.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002779555.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_001273385.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002010975.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003601605.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003133625.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003141855.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003151735.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003164295.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003165195.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_003589585.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003601785.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003601875.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_007050895.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_004376975.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_013330975.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002010925.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002507245.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003661945.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002255025.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_001775995.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_001593875.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003662205.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002726865.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003601775.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_001775965.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_001774245.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_013329615.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003661385.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_000019605.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003344655.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_003947435.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003661265.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003661365.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003649185.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003649145.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003649085.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_001717035.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_001717025.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_001717015.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_004028775.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_004347955.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_004348015.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003649615.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003649565.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003650865.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_004347965.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_000270325.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002898355.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002898395.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_000494145.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003660635.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003056285.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002255045.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003661505.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002011075.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003661605.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002506605.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002499005.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_000144915.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_000495735.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002496425.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_003431325.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_000591035.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_000011125.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_000317795.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002506595.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002877855.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_003116855.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_000513855.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_000186365.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002254665.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003661825.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_000092465.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_000015945.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_000264495.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_000092185.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002495025.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002899805.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_000258425.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_000017945.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_001481685.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003661905.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_000145985.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003661775.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003661865.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002255065.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003661745.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003056265.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_000015145.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_001412615.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_001462395.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_000223395.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003978665.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002254745.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_000375685.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_000380705.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003019595.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003019535.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002507085.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003650925.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003649665.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_000389735.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_000632495.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_000213215.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002116695.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_003201765.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_003201835.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_000565255.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_000204925.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_001315825.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_000016605.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_000243315.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003086555.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_000022385.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_900079115.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_001719125.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_003967175.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_001316045.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_001316085.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_000012285.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_000508305.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_000011205.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003649445.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003650815.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003649515.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003650785.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003650675.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003649235.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003649225.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002254595.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003649495.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002855745.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_000993805.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_000813245.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_000015225.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_003649205.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_000018305.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_001663375.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002506515.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_001315925.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_001516585.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002508315.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_001748385.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_000148385.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_001316005.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_001316125.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002506645.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_001315985.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_000190315.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_001316025.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_001316245.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_001316265.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_001316285.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002496475.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_000007225.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_000015805.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_000234805.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_000015205.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_000019805.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_000247545.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_001189275.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_000960885.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_002077075.2	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCA_002497345.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_000253055.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
+GCF_000193375.1	Non_AMO	Non_AMO_TPR	Other Thermoproteota
