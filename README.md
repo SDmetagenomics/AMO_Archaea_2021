@@ -1,2 +1,2 @@
 # CuMMO_Archaea_2021
-This repository contains all code for analysis performed in "Soils and sediments host archaea with novel copper monooxygenases possibly involved in ammonia oxidation"
+This repository contains all code for analysis performed in: Spencer Diamond, Adi Lavy, Alexander Crits-Christoph, Paula B Matheus Carnevali, Allison Sharrar, Kenneth H Williams, Jillian F Banfield, Soils and sediments host Thermoplasmata archaea encoding novel copper membrane monooxygenases (CuMMOs), The ISME Journal, Volume 16, Issue 5, May 2022, Pages 1348–1362, https://doi.org/10.1038/s41396-021-01177-5
